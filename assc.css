@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(10, 227, 49);
+}
+.sir{
+    color: rgb(99, 224, 224);
+
+}
+.ceon h2{
+    color: rgb(59, 28, 184);
+
+}
+.container{
+    border: 5px solid #f7dfbe;
+
+    max-width: 900px;
+    background-color: white;
+    padding: 15px;
+}
+.footer{
+    background-color: #a929f3;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 10px;}
